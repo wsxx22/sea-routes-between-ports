@@ -1,0 +1,6 @@
+
+customProperties:
+  historicalRoutesFileName: DEBRV_DEHAM_historical_routes.csv
+logging:
+  level:
+    com.searoutes: debug
