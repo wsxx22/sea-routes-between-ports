@@ -3,7 +3,6 @@
 Application use spring-boot on deafult port 8080 and spock for tests. Application has one endpoint and a few value of params to sort data.
 
 Name of param: typeSearch
-
 Available value of params:
 - minimum-trip-duration
 - maximum-amount-readings
