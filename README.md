@@ -12,3 +12,4 @@ Example:
 localhost:8080/historical-routes/search-by?typeSearch=maximum-speed
 
 We could use Either object instead of throw Exceptions, use DTO objects to display data but it's simple app
+
